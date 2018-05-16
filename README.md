@@ -14,3 +14,8 @@ Examples:
 - 34 has four factors: 1, 2, 17, and 34: this would be '34'
 
 This test can be completed in a language of your choice and should be made available on your github account. You should write tests to cover your expected range of inputs and outputs. Commit often and document well.
+
+## Process
+* Add raindrops function that takes 3 and returns 'Pling'
+* Add raindrops function that takes 6 and returns 'Pling'
+* Refactor duplicated code to evaluate against modulo of 3 rather than individual numbers
