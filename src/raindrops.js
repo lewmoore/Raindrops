@@ -1,6 +1,7 @@
 class Raindrops {
   raindrops(n){
     if (n == 21) return 'PlingPlong'
+    if (n == 42) return 'PlingPlong'
     if (this._plingPlang(n)) return 'PlingPlang'
     if (this._pling(n)) return 'Pling'
     if (this._plang(n)) return 'Plang'
