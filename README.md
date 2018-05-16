@@ -25,7 +25,7 @@ To use this application run the following commands:
 * `npm install`
 * `open index.html`
 
-To run the Raindrops function open the console with `cmd + alt + j` and create a new instance of `Raindrops` with `raindrops = new Raindrops()` then type `raindrops.raindrops(n)` with `n` being any argument.
+To interact with the application open the console with `cmd + alt + j` and create a new instance of `Raindrops` with `raindrops = new Raindrops()` then type `raindrops.raindrops(n)` with `n` being any argument.
 
 To run the tests use `npm test`
 
