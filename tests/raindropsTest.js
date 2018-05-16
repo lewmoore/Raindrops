@@ -56,4 +56,8 @@ describe('Raindrops', function(){
   it('takes argument 140 and returns PlangPlong', function(){
     expect(raindrops.raindrops(140)).toEqual('PlangPlong')
   })
+
+  it('returns an error if argument is not a number', function(){
+    expect(raindrops.raindrops('argument')).toEqual('Attempt Failed: Please insert a number')
+  })
 })

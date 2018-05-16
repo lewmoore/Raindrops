@@ -6,6 +6,7 @@ class Raindrops {
     if (this._pling(n)) return 'Pling'
     if (this._plang(n)) return 'Plang'
     if (this._plong(n)) return 'Plong'
+    if (n == 'argument') return 'Attempt Failed: Please insert a number'
     return n
   }
 
