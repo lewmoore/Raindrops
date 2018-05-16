@@ -1,6 +1,9 @@
 # Raindrops
 
-Raindrops:
+## Introduction
+This is a small console application that takes a given argument and returns 'Pling' if the argument is has a factor of 3, returns 'Plang' if it has a factor of 5, returns 'Plong' if it has a factor or 7, returns 'PlingPlang' if it has both a factor of 3 and 5, returns 'PlingPlong' if it has both a factor of 3 and 7 and returns 'PlangPlong' if it has both a facotr of 5 and 7.
+
+## Specification
 Write a function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors
 
 - if the number has a factor of 3, output 'Pling'
