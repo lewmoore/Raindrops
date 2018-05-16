@@ -30,3 +30,4 @@ This test can be completed in a language of your choice and should be made avail
 * Raindrop evaluates 15 to PlingPlang
 * Raindrop evaluates 30 to PlingPlang
 * Refactor Raindrop to evaluate all modulos of 3 and 5 to return PlingPlang
+* Raindrop evaluates 21 to PlingPlong

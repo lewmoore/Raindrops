@@ -40,4 +40,8 @@ describe('Raindrops', function(){
   it('takes argument 30 and returns PlingPlang', function(){
     expect(raindrops.raindrops(30)).toEqual('PlingPlang')
   })
+
+  it('takes argument 21 and returns PlingPling', function(){
+    expect(raindrops.raindrops(21)).toEqual('PlingPlong')
+  })
 })
