@@ -20,9 +20,9 @@ This test can be completed in a language of your choice and should be made avail
 
 ## Instructions
 To use this application run:
-`git clone https://github.com/lewmoore/Raindrops.git` \n
-`cd Raindrops` \n
-`open index.html` \n
+* `git clone https://github.com/lewmoore/Raindrops.git`
+* `cd Raindrops`
+* `open index.html`
 
 To run the Raindrops function, type: `raindrops.raindrops(n)` with `n` being any argument.
 
