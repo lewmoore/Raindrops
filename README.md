@@ -25,3 +25,4 @@ This test can be completed in a language of your choice and should be made avail
 * Raindrop evaluates 7 to Plong
 * Raindrop evaluates 14 to Plong
 * Refactor Raindrop to evaluate all modulos of 7 to Plong
+* Raindrop function returns argument if it isnt a modulo of 3, 5 or 7
