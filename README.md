@@ -33,3 +33,5 @@ This test can be completed in a language of your choice and should be made avail
 * Raindrop evaluates 21 to PlingPlong
 * Raindrop evaluates 42 to PlingPlong
 * Refactor Raindrop to evaluate all modulos of 3 and 7 to PlingPlong and extract to function
+* Raindrop evaluates 70 to PlangPlong
+* Raindrop evaluates 140 to PlangPlong
