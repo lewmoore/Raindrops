@@ -47,3 +47,4 @@ To run the Raindrops function, type: `raindrops.raindrops(n)` with `n` being any
 * Add functionality for Raindrops function to evaluate 70 to PlangPlong
 * Add functionality for Raindrops function to evaluate 140 to PlangPlong
 * Refactor Raindrop to evaluate all modulos of 5 and 7 to PlangPlong
+* Add functionality for Raindrops function to return an error if argument is not a number
