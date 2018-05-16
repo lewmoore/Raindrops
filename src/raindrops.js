@@ -1,20 +1,20 @@
 class Raindrops {
   raindrops(n){
-    if (this.pling(n)) return 'Pling'
-    if (this.plang(n)) return 'Plang'
-    if (this.plong(n)) return 'Plong'
+    if (this._pling(n)) return 'Pling'
+    if (this._plang(n)) return 'Plang'
+    if (this._plong(n)) return 'Plong'
     return n
   }
 
-  pling(n){
+  _pling(n){
     return n % 3 == 0
   }
 
-  plang(n){
+  _plang(n){
     return n % 5 == 0
   }
 
-  plong(n){
+  _plong(n){
     return n % 7 == 0
   }
 }
