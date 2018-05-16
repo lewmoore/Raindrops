@@ -27,6 +27,8 @@ To use this application run the following commands:
 
 To run the Raindrops function open the console with `cmd + alt + j` and type `raindrops.raindrops(n)` with `n` being any argument.
 
+To run the tests use `npm test`
+
 ## Process
 * Add raindrops function that takes 3 and returns 'Pling'
 * Add raindrops function that takes 6 and returns 'Pling'
