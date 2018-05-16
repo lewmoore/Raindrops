@@ -19,20 +19,20 @@ This test can be completed in a language of your choice and should be made avail
 * Add raindrops function that takes 3 and returns 'Pling'
 * Add raindrops function that takes 6 and returns 'Pling'
 * Refactor Raindrop to evaluate all modulos of 3 to Pling
-* Add functionality for Raindrops function evaluate 5 to Plang
-* Raindrop function evaluates 10 to Plang
+* Add functionality for Raindrops function to evaluate 5 to Plang
+* Add functionality for Raindrops function to evaluate 10 to Plang
 * Refactor Raindrop to evaluate all modulos of 5 to Plang
-* Raindrop evaluates 7 to Plong
-* Raindrop evaluates 14 to Plong
+* Add functionality for Raindrops function to evaluate 7 to Plong
+* Add functionality for Raindrops function to evaluate 14 to Plong
 * Refactor Raindrop to evaluate all modulos of 7 to Plong
 * Raindrop function returns argument if it isnt a modulo of 3, 5 or 7
 * Refactor raindrop out in to separate functions
-* Raindrop evaluates 15 to PlingPlang
-* Raindrop evaluates 30 to PlingPlang
+* Add functionality for Raindrops function to evaluate 14 to PlingPlang
+* Add functionality for Raindrops function to evaluate 30 to PlngPlang
 * Refactor Raindrop to evaluate all modulos of 3 and 5 to return PlingPlang
-* Raindrop evaluates 21 to PlingPlong
-* Raindrop evaluates 42 to PlingPlong
+* Add functionality for Raindrops function to evaluate 21 to PlingPlong
+* Add functionality for Raindrops function to evaluate 42 to PlingPlong
 * Refactor Raindrop to evaluate all modulos of 3 and 7 to PlingPlong and extract to function
-* Raindrop evaluates 70 to PlangPlong
-* Raindrop evaluates 140 to PlangPlong
+* Add functionality for Raindrops function to evaluate 70 to PlangPlong
+* Add functionality for Raindrops function to evaluate 140 to PlangPlong
 * Refactor Raindrop to evaluate all modulos of 5 and 7 to PlangPlong
