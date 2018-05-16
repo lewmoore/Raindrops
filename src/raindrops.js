@@ -1,7 +1,6 @@
 class Raindrops {
   raindrops(n){
-    if (n == 70) return 'PlangPlong'
-    if (n == 140) return 'PlangPlong'
+    if (n % 5 == 0 && n % 7 == 0) return 'PlangPlong'
     if (this._plingPlong(n)) return 'PlingPlong'
     if (this._plingPlang(n)) return 'PlingPlang'
     if (this._pling(n)) return 'Pling'
