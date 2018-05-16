@@ -18,6 +18,14 @@ Examples:
 
 This test can be completed in a language of your choice and should be made available on your github account. You should write tests to cover your expected range of inputs and outputs. Commit often and document well.
 
+## Instructions
+To use this application run:
+`git clone https://github.com/lewmoore/Raindrops.git`
+`cd Raindrops`
+`open index.html`
+
+To run the Raindrops function, type: `raindrops.raindrops(n)` with `n` being any argument.
+
 ## Process
 * Add raindrops function that takes 3 and returns 'Pling'
 * Add raindrops function that takes 6 and returns 'Pling'
