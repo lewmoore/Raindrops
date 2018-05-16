@@ -32,4 +32,8 @@ describe('Raindrops', function(){
   it('returns itself if not modulo of 3, 5 or 7', function(){
     expect(raindrops.raindrops(1)).toEqual(1)
   })
+
+  it('takes argument 15 and returns PlingPlang', function(){
+    expect(raindrops.raindrops(15)).toEqual('PlingPlang')
+  })
 })
