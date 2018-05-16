@@ -3,6 +3,8 @@
 ## Introduction
 This is a small console application that takes a given argument and returns 'Pling' if the argument is has a factor of 3, returns 'Plang' if it has a factor of 5, returns 'Plong' if it has a factor or 7, returns 'PlingPlang' if it has both a factor of 3 and 5, returns 'PlingPlong' if it has both a factor of 3 and 7 and returns 'PlangPlong' if it has both a facotr of 5 and 7.
 
+This application is written in Javascript and tested with Jasmine and Karma.
+
 ## Specification
 Write a function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors
 
@@ -28,6 +30,22 @@ To use this application run the following commands:
 To interact with the application open the console with `cmd + alt + j` and create a new instance of `Raindrops` with `raindrops = new Raindrops()` then type `raindrops.raindrops(n)` with `n` being any argument.
 
 To run the tests use `npm test`
+
+## Approach
+My approach to this exercise was to keep the code as readable and as simple as possible. As well as this, I also ensured that I
+kept my TDD loop as tight as possible to prevent errors. I broke down the problem in to 6 segments. These were:
+
+- How to handle factors of 3
+- How to handle factors of 5
+- How to handle factors of 7
+- How to handle factors of 3 and 5
+- How to handle factors of 3 and 7
+- How to handle factors of 5 and 7
+
+I wrote a test for each segment and used only the minimum amount of code needed to pass the test and when repetition occured I refactored the code to make it simpler.
+
+I extracted code out in to separate functions to ensure the code stayed readable and easy to follow.
+
 
 ## Process
 * Add raindrops function that takes 3 and returns 'Pling'
