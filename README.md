@@ -22,3 +22,4 @@ This test can be completed in a language of your choice and should be made avail
 * Add functionality for Raindrops function evaluate 5 to Plang
 * Raindrop function evaluates 10 to Plang
 * Refactor code to evaluate against modulo of 5 rather than individual numbers
+* Raindrop evaluates 7 to Plang
